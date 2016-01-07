@@ -1,0 +1,45 @@
+{
+  "_id": "5680919d930653b61fb96bcf",
+  "index": 0,
+  "guid": "54bbcf1c-3503-4378-b66d-21706ac40bd6",
+  "isActive": true,
+  "balance": "$3,686.89",
+  "picture": "http://placehold.it/32x32",
+  "age": 33,
+  "eyeColor": "blue",
+  "name": "Kirsten Ratliff",
+  "gender": "female",
+  "company": "LUMBREX",
+  "email": "kirstenratliff@lumbrex.com",
+  "phone": "+1 (893) 472-3802",
+  "address": "229 Elmwood Avenue, Emerald, Connecticut, 6573",
+  "about": "Enim consectetur ut fugiat quis nulla qui proident cillum dolore dolore enim. Excepteur non reprehenderit pariatur voluptate velit ex eu. Fugiat sit esse voluptate aliqua cupidatat duis eiusmod cillum. Dolor ex aliqua exercitation aliqua incididunt veniam deserunt ex commodo cillum aute ut aliqua cupidatat. Excepteur sint proident irure consectetur eiusmod aliquip do. Veniam est proident anim duis dolore qui aliquip aute dolor ullamco.\r\n",
+  "registered": "2015-11-08T05:56:52 -00:00",
+  "latitude": -82.340797,
+  "longitude": 30.414154,
+  "tags": [
+    "Lorem",
+    "exercitation",
+    "id",
+    "esse",
+    "pariatur",
+    "ipsum",
+    "est"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Elma Ashley"
+    },
+    {
+      "id": 1,
+      "name": "Trujillo Gould"
+    },
+    {
+      "id": 2,
+      "name": "Alice Burns"
+    }
+  ],
+  "greeting": "Hello, Kirsten Ratliff! You have 2 unread messages.",
+  "favoriteFruit": "strawberry"
+}

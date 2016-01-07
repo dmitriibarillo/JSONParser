@@ -1,0 +1,31 @@
+{
+  "_id": "5554b1c59275dc39f4a93674",
+  "index": 0,
+  "guid": "c80c5829-0427-49a2-bafe-31b1e4bf7894",
+  "isActive": false,
+  "balance": "$2,136.90",
+  "picture": "http://placehold.it/32x32",
+  "age": 37,
+  "eyeColor": "blue",
+  "name": "Deborah Sanford",
+  "gender": "female",
+  "company": "HINWAY",
+  "email": "deborahsanford@hinway.com",
+  "phone": "+1 (957) 449-3014",
+  "address": "297 Mermaid Avenue, Sisquoc, Maryland, 8373",
+  "about": "Cillum cillum cillum et exercitation duis nostrud aute minim amet. Ullamco sit ea minim veniam adipisicing mollit tempor dolor ad pariatur deserunt aute. Ullamco sit voluptate deserunt occaecat fugiat nisi. Enim voluptate ea non cupidatat mollit amet eiusmod laborum minim commodo ut.\r\n",
+  "registered": "2014-09-11T04:15:36 -07:00",
+  "latitude": 52.586815,
+  "longitude": 3.566686,
+  "tags": [
+    "labore",
+    "nisi",
+    "enim",
+    "id",
+    "ullamco",
+    "dolor",
+    "incididunt"
+  ],
+  "greeting": "Hello, Deborah Sanford! You have 6 unread messages.",
+  "favoriteFruit": "banana"
+}
